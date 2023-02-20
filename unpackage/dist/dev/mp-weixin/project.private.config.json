@@ -1,6 +1,6 @@
 {
   "projectname": "chat",
   "setting": {
-    "compileHotReLoad": false
+    "compileHotReLoad": true
   }
 }
